@@ -26,8 +26,8 @@ this is final step. we can make our main image based on other Eigen Faces. **you
 
 Libraries in use:
 
-> numpy
-> openCv (cv2)
-> glob
-> os
-> matplotlib.pyploty
+  - > numpy
+  - > openCv (cv2)
+  - > glob
+  - > os
+  - > matplotlib.pyploty
